@@ -1,3 +1,2 @@
-myportfolio
+first.py
 
-วรดา
