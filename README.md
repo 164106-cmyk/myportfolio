@@ -11,9 +11,10 @@ target="_blank">
 target="_blank">
 <button> sop 📍 </button>
 </a>
+
 <a href="https://drive.google.com/file/d/1CzbrEumUHjLYrCvLIfAwDyrXMs42Zj_J/view?usp=sharing"
 target="_blank">
-<button> sop 📍 </button>
+ิ<button> ประวัตืส่วนตัว 📍 </button>
 </a>
 
 
