@@ -14,7 +14,7 @@ target="_blank">
 
 <a href="https://drive.google.com/file/d/1CzbrEumUHjLYrCvLIfAwDyrXMs42Zj_J/view?usp=sharing"
 target="_blank">
-ิ<button> ประวัตืส่วนตัว 📍 </button>
+<button> ประวัติส่วนตัว 📍 </button>
 </a>
 
 
