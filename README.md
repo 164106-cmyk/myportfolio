@@ -17,4 +17,12 @@ target="_blank">
 <button> ประวัติส่วนตัว 📍 </button>
 </a>
 
+<a href="https://drive.google.com/file/d/1XoDkKne1WU1DV0xak1sb3yRtnUp8L3HB/view?usp=sharing"
+target="_blank">
+<button> ใบผลการเรียน 📍 </button>
+</a>
 
+<a href="https://drive.google.com/file/d/1XoDkKne1WU1DV0xak1sb3yRtnUp8L3HB/view?usp=sharing"
+target="_blank">
+<button> ใบผลการเรียน 📍 </button>
+</a>
