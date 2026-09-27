@@ -26,3 +26,9 @@ target="_blank">
 target="_blank">
 <button> กิจกรรมที่เข้าร่วม📍 </button>
 </a>
+
+<a href="
+  https://drive.google.com/file/d/1CC-OWuhInDuoAihJFMqLduLA8T6L7G9I/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมที่เข้าร่วม📍 </button>
+</a>
