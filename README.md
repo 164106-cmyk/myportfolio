@@ -53,7 +53,7 @@ target="_blank">
 
 <a href="https://drive.google.com/file/d/1VkhtgThxZux8T0t4eB7RiZXOcPOct7nu/view?usp=sharing"
 target="_blank">
-<button> ขอบคุณ📍 </button>
+<button> ปกท้าย📍 </button>
 
 
 
