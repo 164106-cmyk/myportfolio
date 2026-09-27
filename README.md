@@ -24,5 +24,5 @@ target="_blank">
 
 <a href="https://drive.google.com/file/d/1H4mwpIHkfqIzTxcZkt_f35ofrEzO6FNI/view?usp=sharing"
 target="_blank">
-<button> ใบผลการเรียน 📍 </button>
+<button> กิจกรรมที่เข้าร่วม📍 </button>
 </a>
